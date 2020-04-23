@@ -12,7 +12,7 @@
   <!-- Styles -->
   <style>
   html, body {
-    background-image: url('https://lh3.googleusercontent.com/proxy/UmseyYHQ83dsv4nWIUL_Rn-iPxWEcHkB1giiMtcR2AxdkhKmnHyOmchOMjdcjP3xtasm0SnG1jdONSqwZBd8wXgqm6ofenlfcJ7AekkXDddDGg_ir_hNUgCpsCHk-oq_dI2DVvwnJXGxt_aTBoBrfo9I4Ve_u3HMB3H6QrY5');
+    background-image: url('https://cdn.pixabay.com/photo/2015/01/22/23/59/purple-608575_960_720.jpg');
     background-size: cover;
     color: #636b6f;
     font-family: 'Nunito', sans-serif;

@@ -12,7 +12,7 @@
   <!-- Styles -->
   <style>
   html, body {
-    background-image: url('https://cdn.pixabay.com/photo/2015/01/22/23/59/purple-608575_960_720.jpg');
+    background-image: url('https://images.wallpaperscraft.com/image/texture_spots_purple_130336_1920x1080.jpg');
     background-size: cover;
     color: #636b6f;
     font-family: 'Nunito', sans-serif;

@@ -90,4 +90,15 @@ public function show()
   return view('quotes.random')->with("data", $data);
 }
 
+public function showImage()
+{
+  $totalQuotes = 15;
+  $randomNumber = (rand(1,($totalQuotes-1)));
+  $randomUrl = "https://teis-taller2.s3.amazonaws.com/".$randomNumber.".PNG";
+  $data = [];
+  $data['url'] = $randomUrl;
+  $data['server-ip'] = gethostbyname(gethostname());
+  return view('quotes.randomImage')->with("data", $data);
+}
+
 }
